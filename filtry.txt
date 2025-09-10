@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 || www.google-analytics.com
 || metrics.apple.com
 || app.plusplus.com
